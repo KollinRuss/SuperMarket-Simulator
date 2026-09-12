@@ -1,0 +1,116 @@
+Kollin's Supermarket
+6:00 AM - 11:00 PM
+25000
+25
+*Aisle Information*
+Aisle 0: Produce
+Apples 1.00 2.00 1.75 50
+Bananas 0.50 1.25 1.00 40
+Oranges 1.25 2.50 2.25 30
+Grapes 2.00 4.00 3.50 25
+Strawberries 2.50 5.00 4.50 20
+Blueberries 2.00 4.50 4.00 25
+Pears 1.00 2.25 2.00 35
+Watermelon 3.00 6.00 5.50 15
+############################
+Aisle 1: Bakery
+Bread 1.50 3.00 2.50 50
+Cookies 2.00 4.00 3.50 35
+Donuts 2.50 5.00 4.50 30
+Muffins 2.00 4.50 4.00 29
+Bagels 1.50 3.50 3.00 15
+Cake 5.00 10.00 9.00 10
+Brownies 2.00 4.50 4.00 15
+Croissants 2.50 5.00 4.50 25
+############################
+Aisle 2: Drinks
+Water 0.50 1.50 1.25 100
+Juice 1.50 3.00 2.50 50
+Soda 1.00 2.50 2.00 40
+Milk 1.50 3.50 3.00 35
+Lemonade 1.25 3.00 2.50 20
+Iced_Tea 1.00 2.50 2.00 25
+Sports_Drink 1.50 3.00 2.50 30
+Coffee 3.00 6.00 5.00 15
+############################
+Aisle 3: Snacks
+Chips 1.50 3.50 3.00 50
+Popcorn 1.00 2.50 2.00 40
+Pretzels 1.25 3.00 2.50 25
+Crackers 1.50 3.00 2.50 15
+Granola_Bars 2.00 4.00 3.50 12
+Trail_Mix 2.50 5.00 4.50 5
+Peanuts 1.50 3.50 3.00 10
+Candy 1.00 2.50 2.00 25
+############################
+Aisle 4: Canned_Foods
+Canned_Corn 0.75 1.50 1.25 100
+Canned_Beans 0.75 1.50 1.25 100
+Canned_Soup 1.00 2.00 1.75 100
+Canned_Tomatoes 0.75 1.75 1.50 100
+Canned_Peas 0.75 1.50 1.25 100
+Canned_Tuna 1.50 3.00 2.50 100
+Canned_Peaches 1.00 2.25 2.00 100
+Canned_Pineapple 1.00 2.25 2.00 100
+############################
+Aisle 5: Frozen_Foods
+Frozen_Pizza 3.00 6.00 5.25 50
+Frozen_Vegetables 1.50 3.00 2.50 75
+Frozen_Fries 1.50 3.50 3.00 30
+Ice_Cream 2.50 5.00 4.50 35
+Frozen_Burritos 2.00 4.00 3.50 40
+Frozen_Waffles 2.00 4.00 3.50 20
+Frozen_Chicken 4.00 8.00 7.00 50
+Frozen_Fruit 2.00 4.50 4.00 100
+############################
+Aisle 6: Meat
+Ground_Beef 4.00 8.00 7.00 50
+Chicken_Breast 4.00 9.00 8.00 40
+Pork_Chops 4.50 9.00 8.00 45
+Steak 7.00 14.00 12.50 30
+Turkey 5.00 10.00 9.00 50
+Bacon 3.00 6.00 5.25 45
+Sausage 2.50 5.00 4.50 25
+Ham 4.00 8.00 7.00 15
+############################
+Aisle 7: Dairy
+Milk 1.50 3.50 3.00 50
+Cheese 2.00 4.50 4.00 45
+Butter 2.00 4.00 3.50 20
+Yogurt 1.00 2.50 2.00 25
+Sour_Cream 1.00 2.50 2.00 10
+Cream_Cheese 1.50 3.00 2.50 15
+Cottage_Cheese 1.50 3.50 3.00 5
+Eggs 1.50 4.00 3.50 35
+############################
+Aisle 8: Household
+Paper_Towels 3.00 6.00 5.00 40
+Toilet_Paper 4.00 8.00 7.00 100
+Trash_Bags 2.50 5.00 4.50 50
+Dish_Soap 1.50 3.50 3.00 30
+Laundry_Detergent 4.00 8.00 7.00 25
+Sponges 1.00 2.50 2.00 15
+Cleaning_Spray 2.00 4.00 3.50 35
+Aluminum_Foil 1.50 3.00 2.50 50
+############################
+Aisle 9: Personal_Care
+Shampoo 3.00 6.00 5.00 20
+Conditioner 3.00 6.00 5.00 25
+Toothpaste 2.00 4.00 3.50 30
+Toothbrush 1.50 3.00 2.50 20
+Deodorant 2.50 5.00 4.50 35
+Soap 1.00 2.50 2.00 20
+Lotion 2.50 5.00 4.50 20
+Razors 3.00 6.00 5.25 15
+############################
+*Employee Information*
+Raylon 1001 2500
+Sarah 1002 2800
+Christopher 1003 2600
+Lala 1004 3000
+David 1005 2700
+Jessica 1006 2900
+Leo 1007 2550
+Ashley 1008 2750
+Chritian 1009 2650
+Amanda 1010 2850
